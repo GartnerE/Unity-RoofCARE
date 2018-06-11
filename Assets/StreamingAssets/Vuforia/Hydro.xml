@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="20180604_094817_reduced" size="1.000000 0.750000" />
+    <ImageTarget name="20180604_094823_reduced" size="1.000000 0.750000" />
+    <ImageTarget name="jfk3" size="1.000000 0.806250" />
+    <ImageTarget name="LogoColorBig" size="1.000000 0.526873" />
+    <ImageTarget name="LogoColor2" size="0.100000 0.052687" />
+    <ImageTarget name="Abram2" size="0.200000 0.113750" />
+    <ImageTarget name="Abram" size="0.600000 0.340313" />
+  </Tracking>
+</QCARConfig>
